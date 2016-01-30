@@ -5,7 +5,7 @@ An experiment for using Bezier curve, canvas in javascript
 
 **[here the result!](http://giorgioriccardi.github.io/bezier-logo)**
 
-[Giorgio Riccardi](https://github.com/giorgioriccardi), Do you like it?
+[Alessandro Franceschetti](https://github.com/afranceschetti), How do you like it?
 
 ## Thanks
-[Pomax](https://github.com/Pomax/bezierjs), with his fantastic Javascript/Bezier library!
+[Pomax](https://github.com/Pomax/bezierjs), for his fantastic Javascript/Bezier library!
