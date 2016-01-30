@@ -3,7 +3,7 @@ Totally useless logo created with Bezier curves
 
 An experiment for using Bezier curve, canvas in javascript
 
-**[here the result!](http://afranceschetti.github.io/bezier-logo)**
+**[here the result!](http://giorgioriccardi.github.io/bezier-logo)**
 
 [Giorgio Riccardi](https://github.com/giorgioriccardi), Do you like it?
 
